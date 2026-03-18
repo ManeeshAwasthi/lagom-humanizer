@@ -1,2 +1,3 @@
-# lagom-humanizer
-time-pass side project 
+# Lagom Humanizer
+
+AI humanizer MVP for natural academic rewriting.
